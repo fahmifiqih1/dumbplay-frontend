@@ -1,3 +1,4 @@
 name : fahmi
 siswa : dumbways
+renk : number one
 working in pt meteor bismillah
