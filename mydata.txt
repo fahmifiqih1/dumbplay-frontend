@@ -4,3 +4,4 @@ renk : number one
 mydream : devops eng number one
 slogan : can think can walk
 work: metoer
+project: web, devops
