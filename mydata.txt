@@ -3,4 +3,4 @@ siswa : dumbways
 renk : number one
 mydream : devops eng number one
 slogan : can think can walk
-working in pt meteor bismillah
+work: metoer
